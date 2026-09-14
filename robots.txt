@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peters294.github.io/PadTapStudio/sitemap.xml
